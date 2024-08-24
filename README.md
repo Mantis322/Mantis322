@@ -66,7 +66,6 @@ If you want to reach out to me about anything, feel free.
 <a href="mailto:onder.durak@hotmail.com">
  <img align="left" alt="Outlook" width="130" hight="100" src="https://github.com/Mantis322/Mantis322/blob/main/assets/outlook%403x.png" />
 </a>
-</br>
 <a href="https://www.twitch.tv/mantis355">
   <img align="left" alt="Twitch" width="130" hight="100" src="https://github.com/Mantis322/Mantis322/blob/main/assets/twitch%402x.png" />
 </a>
