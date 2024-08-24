@@ -11,7 +11,7 @@
 
 # About ME  :
 
-### - I'm 27 years  old Jr. Java developer & Smart Contract Developer from Turkey.
+### - I'm 28 years  old Jr. Java developer & Smart Contract Developer from Turkey.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Mantis322/Mantis322/blob/main/assets/giphy.gif">
 
@@ -66,8 +66,6 @@ If you want to reach out to me about anything, feel free.
 <a href="mailto:onder.durak@hotmail.com">
  <img align="left" alt="Outlook" width="130" hight="100" src="https://github.com/Mantis322/Mantis322/blob/main/assets/outlook%403x.png" />
 </a>
-<a href="https://www.linkedin.com/in/onder-durak/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Mantis322/Mantis322/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
