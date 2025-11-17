@@ -11,7 +11,7 @@
 
 # About ME  :
 
-### - I'm 29 years  old Jr. Java developer & Smart Contract Developer from Turkey.
+### - I'm 29 years old Web3 Developer from Turkey.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Mantis322/Mantis322/blob/main/assets/giphy.gif">
 
