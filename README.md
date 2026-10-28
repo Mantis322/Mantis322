@@ -15,10 +15,11 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Mantis322/Mantis322/blob/main/assets/giphy.gif">
 
-### - Learning :
-- ✨ Backend Develop with Java
+### - Developments :
+- ✨ Full Stack Web3 Projects
 - ✨ Smart Contract Development
-- ✨ Sql Database
+- ✨ Fontend Websites 
+- ✨ Mobile Apps
 
 
 ### - Hobbies : 
